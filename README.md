@@ -21,7 +21,7 @@
    wget https://distribution.concordium.software/tools/linux/concordium-client_5.0.2-0
    mv concordium-client_5.0.2-0 concordium-client
    chmod +x concordium-client
-   concordium-client --help
+   concordiumhttps://github.com/tgoerke/concordium-client --help
    concordium-client consensus status --grpc-port 10000 --grpc-ip node.testnet.concordium.com
 ````
 
@@ -36,7 +36,7 @@ https://chrome.google.com/webstore/detail/concordium-wallet/
    sudo apt  install jq  # version 1.6-1ubuntu0.20.04.1
    jq '' txt/4pfT44iebN3ygndjCmD1AR5sQWYtd52eJScC9QF2rqmkR2e9GA.export 
    concordium-client config account import 4pfT44iebN3ygndjCmD1AR5sQWYtd52eJScC9QF2rqmkR2e9GA.export --name concordium-dev
-   less find . ~/.config/concordium/accounts/4pfT44iebN3ygndjCmD1AR5sQWYtd52eJScC9QF2rqmkR2e9GA
+   find . ~/.config/concordium/accounts/4pfT44iebN3ygndjCmD1AR5sQWYtd52eJScC9QF2rqmkR2e9GA
 ````
 
 
