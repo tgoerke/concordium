@@ -1,0 +1,11 @@
+{
+    "metadata": {
+        "slotTime": "2021-01-01T00:00:01Z"
+    },
+    "initOrigin": "4phD1qaS3U1nLrzJcgYyiPq1k8aV1wAjTjYVPE3JaqovViXS4j",
+    "senderPolicies": [{
+        "identityProvider": 1,
+        "createdAt": "202012",
+        "validTo": "202109"
+    }]
+}
