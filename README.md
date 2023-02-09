@@ -39,4 +39,8 @@ https://chrome.google.com/webstore/detail/concordium-wallet/
    find . ~/.config/concordium/accounts/4pfT44iebN3ygndjCmD1AR5sQWYtd52eJScC9QF2rqmkR2e9GA
 ````
 
+## Dev cycle
 
+````
+   torsten@tri:~/src/concordium/thought $ inotifywait -q -m -e close_write src/lib.rs |while read -r filename event; do cargo concordium build -e -o thought.wasm.v1 -s schema.bin;   done
+````
