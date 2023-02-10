@@ -28,4 +28,5 @@ Based on talk by [Doris Benda](https://www.youtube.com/watch?v=J-SP_ptKu_I) and 
 
 ![build](../assets/build.png)
 ![deploy](../assets/deploy2.png)
+![voting](../assets/voting.png)
 
