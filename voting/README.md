@@ -2,7 +2,7 @@
 
 Dapp to set up a new election, vote, display results, check ZK proofs and vote using ZK proofs
 
-Based on talk by [Doris Benda](https://www.youtube.com/watch?v=J-SP_ptKu_I) and voting workshop Task 2 Deploy Your First Smart Contract[code](https://github.com/Concordium/voting-workshop).
+Based on talk by [Doris Benda](https://www.youtube.com/watch?v=J-SP_ptKu_I) and voting workshop [code](https://github.com/Concordium/voting-workshop).
 
 
 ## Deploy voting contract
