@@ -2,7 +2,7 @@
 
 Dapp to set up a new election, vote, display results, check ZK proofs and vote using ZK proofs
 
-Based on talk by ![Doris Benda](https://www.youtube.com/watch?v=J-SP_ptKu_I) and voting workshop ![code](https://github.com/Concordium/voting-workshop).
+Based on talk by [Doris Benda](https://www.youtube.com/watch?v=J-SP_ptKu_I) and voting workshop ![code](https://github.com/Concordium/voting-workshop).
 
 
 ## Deploy voting contract
@@ -27,5 +27,5 @@ Based on talk by ![Doris Benda](https://www.youtube.com/watch?v=J-SP_ptKu_I) and
     npm start
 
 ![build](../assets/build.png)
-![deploy](../assets/deploy2png)
+![deploy](../assets/deploy2.png)
 
