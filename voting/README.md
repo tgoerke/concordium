@@ -11,7 +11,6 @@ Based on talk by [Doris Benda](https://www.youtube.com/watch?v=J-SP_ptKu_I) and 
     wget https://github.com/Concordium/voting-workshop/raw/main/smart-contract/src/lib.rs
 
     cargo concordium build --schema-base64-out -
-    concordium-client module deploy target/concordium/wasm32-unknown-unknown/release/voting_contract.wasm.v1 --sender concordium-dev --grpc-port 10000 --grpc-ip node.testnet.concordium.com
 
     concordium-client module deploy target/concordium/wasm32-unknown-unknown/release/voting.wasm.v1 --sender concordium-dev --grpc-port 10000 --grpc-ip node.testnet.concordium.com
 
